@@ -57,7 +57,7 @@
 
 
 
-> 原文链接：
+> 原文链接：https://github.com/CoinTool-Info/cointool-docs/blob/main/learn/batch-approve.md
 >
 > 引用参考知识 
 >
