@@ -1,10 +1,8 @@
 # Table of contents
 
-* [教程文档](README.md)
-
-## 学习
-
----
-
-* [网站](https://cointool.info)
+* [首页](README.md)
+* [Developer Documentation](demo.md)
+* [test](test.md)
+* [学习](learn/README.md)
+  * [批量取消授权](learn/batch-approve.md)
 

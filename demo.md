@@ -18,7 +18,7 @@ AVAX is the native token of Avalanche. It’s a hard-capped, scarce asset that i
 
 ## Avalanche Consensus Protocol
 
-![Consensus Comparison](.gitbook/assets/image%20%2810%29%20%281%29%20%281%29%20%281%29.png)
+![Consensus Comparison](https://github.com/CoinTool-Info/cointool-docs/tree/fb72cd76b5e574d6fc1b3dfa55b2906c44e0461e/.gitbook/assets/image%20%2810%29%20%281%29%20%281%29%20%281%29.png)
 
 Protocols in the Avalanche family operate through repeated sub-sampled voting. When a [validator](http://support.avalabs.org/en/articles/4064704-what-is-a-blockchain-validator) is determining whether a [transaction](http://support.avalabs.org/en/articles/4587384-what-is-a-transaction) should be accepted or rejected, it asks a small, random subset of validators whether they think the transaction should be accepted or rejected. If the queried validator thinks the transaction is invalid, has already rejected the transaction, or prefers a conflicting transaction, it replies that it thinks the transaction should be rejected. Otherwise, it replies that it thinks the transaction should be accepted.
 
@@ -28,7 +28,7 @@ The validator repeats this sampling process until _alpha_ of the validators quer
 
 In the common case when a transaction has no conflicts, finalization happens very quickly. When conflicts exist, honest validators quickly cluster around conflicting transactions, entering a positive feedback loop until all correct validators prefer that transaction. This leads to the acceptance of non-conflicting transactions and the rejection of conflicting transactions.
 
-![How Avalanche Consensus Works](.gitbook/assets/howavalancheconsensusworks.png)
+![How Avalanche Consensus Works](https://github.com/CoinTool-Info/cointool-docs/tree/fb72cd76b5e574d6fc1b3dfa55b2906c44e0461e/.gitbook/assets/howavalancheconsensusworks.png)
 
 It is guaranteed \(with high probability based on system parameters\) that if any honest validator accepts or rejects a transaction, all honest validators will accept or reject that transaction.
 
@@ -36,7 +36,7 @@ Learn more technical components of the Avalanche consensus protocol by reading t
 
 ## Snowman Consensus Protocol
 
-Snowman is a chain-optimized consensus protocol–high-throughput, totally-ordered, and great for smart contracts. Snowman is powered by the [Avalanche consensus protocol](./#avalanche-consensus-protocol). Both [P-Chain](learn/platform-overview/#platform-chain-p-chain) and [C-Chain](learn/platform-overview/#contract-chain-c-chain) implement the Snowman consensus protocol.
+Snowman is a chain-optimized consensus protocol–high-throughput, totally-ordered, and great for smart contracts. Snowman is powered by the [Avalanche consensus protocol](./#avalanche-consensus-protocol). Both [P-Chain](https://github.com/CoinTool-Info/cointool-docs/tree/fb72cd76b5e574d6fc1b3dfa55b2906c44e0461e/learn/platform-overview/README.md#platform-chain-p-chain) and [C-Chain](https://github.com/CoinTool-Info/cointool-docs/tree/fb72cd76b5e574d6fc1b3dfa55b2906c44e0461e/learn/platform-overview/README.md#contract-chain-c-chain) implement the Snowman consensus protocol.
 
 ## Key Features
 
@@ -71,3 +71,4 @@ Create your own public or private blockchains.
 ### Designed for Finance
 
 Native support for easily creating and trading digital smart assets with complex, custom rulesets.
+
