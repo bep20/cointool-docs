@@ -1,6 +1,6 @@
 # Table of contents
 
-* [首页](README.md)
+* [CoinTool.Info 文档](README.md)
 * [Developer Documentation](demo.md)
 * [test](test.md)
 * [学习](learn/README.md)

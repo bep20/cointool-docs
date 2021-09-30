@@ -1,5 +1,7 @@
 ---
-description: 币工具 CoinTool.Info 一个让更多人轻松的操作链上工具集合箱，批量查询区块链余额，批量创建BTC、ETH、SOL、TRX、BNB等多种钱包地址，一键发币、批量归集、批量发送、行情总览、等多种操作
+description: >-
+  币工具 CoinTool.Info
+  一个让更多人轻松的操作链上工具集合箱，批量查询区块链余额，批量创建BTC、ETH、SOL、TRX、BNB等多种钱包地址，一键发币、批量归集、批量发送、行情总览、等多种操作
 ---
 
 # CoinTool.Info 文档
@@ -8,9 +10,9 @@ description: 币工具 CoinTool.Info 一个让更多人轻松的操作链上工�
 
 用户可通过创建代币功能在页面上实现页面化进行一键创建标准的ERC20系列的代币，支持可配置Token的扩展功能，如燃烧机制，铸币、销毁、添加黑名单等功能，用户可之行管理自己的Token。
 
-![交互图片](.gitbook/assets/Snipaste_2021-09-29_14-49-28.png)
+![&#x4EA4;&#x4E92;&#x56FE;&#x7247;](.gitbook/assets/Snipaste_2021-09-29_14-49-28.png)
 
-用户通过https://CoinTool.Info 创建标准ERC20代币，可以很好的帮助那些不懂的编程技术人员。只需要通过CoinTool 平台，CoinTool背后已实现区块链进行操作，无需编程技术，可轻松的管理和创建代币。
+用户通过[https://CoinTool.Info](https://CoinTool.Info) 创建标准ERC20代币，可以很好的帮助那些不懂的编程技术人员。只需要通过CoinTool 平台，CoinTool背后已实现区块链进行操作，无需编程技术，可轻松的管理和创建代币。
 
 ## 批量生成钱包
 
@@ -20,11 +22,9 @@ description: 币工具 CoinTool.Info 一个让更多人轻松的操作链上工�
 
 批量发送Token，用于需要大量发送代币或本币给不同地址，如空头奖励、刷代币持有地址量等操作。币工具在不同的链都有部署批量发送的合约，用户通过文件导入的形式，或文本输入的格式发送到合约中，合约进行批量分发给指定地址。
 
-![交互图片](.gitbook/assets/Snipaste_2021-09-29_15-15-52.png)
+![&#x4EA4;&#x4E92;&#x56FE;&#x7247;](.gitbook/assets/Snipaste_2021-09-29_15-15-52.png)
 
-通过合约批量发送只需要一次txid(上链操作）据可实现批量发送，无需一个地址一个地址进行转账。节省了手续费。
-
-
+通过合约批量发送只需要一次txid\(上链操作）据可实现批量发送，无需一个地址一个地址进行转账。节省了手续费。
 
 ## 批量检查钱包余额
 
@@ -38,13 +38,11 @@ description: 币工具 CoinTool.Info 一个让更多人轻松的操作链上工�
 
 批量归集可以方便的将多个地址的余额、或代币归集到一个总的地址中，根据gas费用需要预留一点点手续费，可以大大的省去的人工一笔笔进行转账操作。CoinTool 通过调用web3.js 方法批量转账。
 
-![归集](.gitbook/assets/guiji.png)
+![&#x5F52;&#x96C6;](.gitbook/assets/guiji.png)
 
 ## Token持有者扫描
 
 查询某个标准的代币的持有者，以及持仓的排名信息。
-
-
 
 > 原文链接：[https://docs.cointool.info/](https://github.com/CoinTool-Info/cointool-docs/blob/main/learn/batch-approve.md)
 >
@@ -52,14 +50,15 @@ description: 币工具 CoinTool.Info 一个让更多人轻松的操作链上工�
 >
 > [https://cointool.info/createWallet/btc](https://medium.com/zengo/unicats-go-phishing-eaf39ff9da64) 创建BTC钱包地址
 >
-> https://cointool.info/createToken/eth 一键发ERC20代币
+> [https://cointool.info/createToken/eth](https://cointool.info/createToken/eth) 一键发ERC20代币
 >
-> https://cointool.info/createToken/eth 批量发送ETH或代币
+> [https://cointool.info/createToken/eth](https://cointool.info/createToken/eth) 批量发送ETH或代币
 >
-> https://cointool.info/batchCheckBalance/eth 批量检查钱包余额
+> [https://cointool.info/batchCheckBalance/eth](https://cointool.info/batchCheckBalance/eth) 批量检查钱包余额
 >
-> https://cointool.info/approve/eth 批量检查授权合约
+> [https://cointool.info/approve/eth](https://cointool.info/approve/eth) 批量检查授权合约
 >
-> https://cointool.info/batchCollection/eth 批量归集ETH
+> [https://cointool.info/batchCollection/eth](https://cointool.info/batchCollection/eth) 批量归集ETH
 >
-> https://cointool.info/tokenHoldScan/eth 持币地址扫描
+> [https://cointool.info/tokenHoldScan/eth](https://cointool.info/tokenHoldScan/eth) 持币地址扫描
+
