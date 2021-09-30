@@ -47,7 +47,7 @@
 0000000000000000000000000000000000000000000000000000000000000000 // 授权额度(0)
 ```
 
-> 原文链接：[https://github.com/CoinTool-Info/cointool-docs/blob/main/learn/batch-approve.md](https://github.com/CoinTool-Info/cointool-docs/blob/main/learn/batch-approve.md)
+> 原文链接：[https://docs.cointool.info/learn/batch-approve](https://github.com/CoinTool-Info/cointool-docs/blob/main/learn/batch-approve.md)
 >
 > 引用参考知识
 >
