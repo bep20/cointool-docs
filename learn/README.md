@@ -1,2 +1,2 @@
-# 学习
+# CoinTool.Info 教程文档
 

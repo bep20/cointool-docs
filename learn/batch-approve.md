@@ -14,7 +14,7 @@
 2. 用户通过页面点击领取空头按钮，此时调用合约`approve` 授权，授权对象是攻击者地址，授权额度为无限
 3. 攻击者通过`transferFrom` 转走用户钱包中USDT。
 
-   ![approve](../.gitbook/assets/Snipaste_2021-09-29_14-49-29.png)![approve](../.gitbook/assets/Snipaste_2021-09-29_14-51-41.png)
+   ![Phishing](../.gitbook/assets/Snipaste_2021-09-29_14-49-29.png)![Phishing](../.gitbook/assets/Snipaste_2021-09-29_14-51-41.png)
 
 在图片中我们可以看到调用授权信息\(使用您的USDT\)
 
@@ -30,15 +30,15 @@
 
 使用币工具 [https://cointool.info](https://cointool.info) 或者 [https://cointool.info/approve/eth](https://cointool.info/approve/eth) 进行查询地址授权信息。
 
-![approve](../.gitbook/assets/Snipaste_2021-09-29_15-10-52.png)
+![cointool](../.gitbook/assets/Snipaste_2021-09-29_15-10-52.png)
 
 1. 链接钱包，地址钱包地址进行扫描 （如没有授权过合约  提示：你没有授权代币给合约过，很棒!
 
-![approve](../.gitbook/assets/Snipaste_2021-09-29_15-13-14.png)
+![cointool](../.gitbook/assets/Snipaste_2021-09-29_15-13-14.png)
 
 1. 扫描出授权的合约信息（⚠️扫描地址不是当前用户钱包地址，则无法取消授权
 
-![approve](../.gitbook/assets/Snipaste_2021-09-29_15-15-51.png)
+![cointool](../.gitbook/assets/Snipaste_2021-09-29_15-15-51.png)
 
 ```text
 // 取消授权本质还是调用合约授权，授权0的额度给目标地址
@@ -47,7 +47,7 @@
 0000000000000000000000000000000000000000000000000000000000000000 // 授权额度(0)
 ```
 
-> 原文链接：[https://github.com/CoinTool-Info/cointool-docs/blob/main/learn/batch-approve.md](https://github.com/CoinTool-Info/cointool-docs/blob/main/learn/batch-approve.md)
+> 原文链接：[https://docs.cointool.info/learn/batch-approve](https://github.com/CoinTool-Info/cointool-docs/blob/main/learn/batch-approve.md)
 >
 > 引用参考知识
 >
