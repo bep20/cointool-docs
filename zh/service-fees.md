@@ -1,1 +1,5 @@
-TokenTool平台将有部分功能收取一定的服务费，进行平台的长期维护发展实用。
+1. 币安智能链
+	- 创建代币费用：0.1BNB
+	- 创建BSC Launchpad 费用：0.8BNB
+	- TokenToolLock锁池子费用：0.08BNB
+	- 科学家模块费用：1天=0.03BNB，7天=0.1BNB，永久=2BNB

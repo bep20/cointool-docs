@@ -1,9 +1,9 @@
 # Table of contents
 
 * [介绍](zh/introduce.md)
-* 服务费用
 * [联系我们](zh/contact-us.md)
 * [社交链接](zh/social-links.md)
+* 服务费用
 * 启动板
   * 创建启动板
   * 更新启动板
