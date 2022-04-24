@@ -1,5 +1,5 @@
-- website: https://tokentool.app
-- telegram: https://t.me/tokentool_app
-- Twitter: https://twitter.com/tokentool_app
-- Github: https://github.com/tokenTool-App
-- youtube: https://www.youtube.com/channel/UCLp8qPPsVPu0xs2s9Pd3kqg/videos
+- website: [https://tokentool.app](https://tokentool.app)
+- telegram: [https://t.me/tokentool_app](https://t.me/tokentool_app)
+- Twitter: [https://twitter.com/tokentool_app](https://twitter.com/tokentool_app)
+- Github: [https://github.com/tokenTool-App](https://github.com/tokenTool-App)
+- youtube: [https://www.youtube.com/channel/UCLp8qPPsVPu0xs2s9Pd3kqg/videos](https://www.youtube.com/channel/UCLp8qPPsVPu0xs2s9Pd3kqg/videos)
