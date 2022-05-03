@@ -3,7 +3,7 @@
 * [介绍](zh/introduce.md)
 * [联系我们](zh/contact-us.md)
 * [社交链接](zh/social-links.md)
-* 服务费用
+* [服务费用](zh/service-fees.md)
 * 启动板
   * 创建启动板
   * 更新启动板
@@ -14,8 +14,8 @@
   * 如何撤回您的捐款
   * 紧急撤回资金
 * 代币
-  * 创建带有黑名单/增发令牌
-  * 创建手续费机制令牌
+  * [创建带有黑名单/增发令牌](zh/create-token.md)
+  * [创建手续费机制令牌](zh/create-token2.md)
   * 创建婴儿令牌
 * NFT
   * NFT批量发送

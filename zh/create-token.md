@@ -1,5 +1,10 @@
 # 轻松创建ERC20代币
 
+如何使用TokenTool 铸造标准代币
+[https://www.youtube.com/watch?v=K0PExlXV0LI](https://www.youtube.com/watch?v=K0PExlXV0LI)
+
+## 轻松创建ERC20代币
+
 https://TokenTool.App 提供了简单的可视化页面化的形式创建标准的ERC20的代币，解决了各种繁琐的安装各种环境的苦恼。如果要自己通过编写solidity合约代码，在通过truffle编辑发布，还需要安装Node.Js，对于没有编程技术的人员来是一个大问题，TokenTool.App 解决了这个问题，通过编译好的字节码，通过Web3 发布自己代币。接下来进入如何发布一个ERC20标准代币。以及在uniswap中添加流动性.本次教程文档使用测试链进行操作.
 
 ## 代币基本信息
@@ -10,7 +15,15 @@ https://TokenTool.App 提供了简单的可视化页面化的形式创建标准�
 
 这里模仿创建一个 Uni 的代币信息。
 
-代币名称：Uniswap	，代币符合：UNI，初始供应量：1000000000，精度：18 ，创建者是否需要转移给别的钱包地址，token代币是否有通缩机制，如果有通缩机制没燃烧比例，以及手续费等信息进行相关的配置，进行创建操作。通过右上角提示，打开区块链浏览器
+代币名称：Uniswap	，
+
+代币符合：UNI，
+
+初始供应量：1000000000，
+
+精度：18 ，
+
+创建者是否需要转移给别的钱包地址，token代币是否有通缩机制，如果有通缩机制没燃烧比例，以及手续费等信息进行相关的配置，进行创建操作。通过右上角提示，打开区块链浏览器
 
 <img src="../.gitbook/assets/Snipaste_2021-10-24_13-00-53.png" alt="create token" style="zoom:50%;" />
 
@@ -46,3 +59,4 @@ https://TokenTool.App 提供了简单的可视化页面化的形式创建标准�
 
 
 > 原文链接：[https://docs.tokentool.app/learn/create-token](https://github.com/TokenTool-App/tokentool-docs/blob/main/learn/create-token.md)
+
