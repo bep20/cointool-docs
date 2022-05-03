@@ -1,44 +1,48 @@
 # Table of contents
 
-* [介绍](zh/introduce.md)
+* [介绍](README.md)
 * [联系我们](zh/contact-us.md)
 * [社交链接](zh/social-links.md)
 * [服务费用](zh/service-fees.md)
-* 启动板
-  * 创建启动板
-  * 更新启动板
-  * 完成启动板
-  * 添加/删除白名单
-  * 如何购买预售
-  * 如何领取代币
-  * 如何撤回您的捐款
-  * 紧急撤回资金
-* 代币
+* [启动板](qi-dong-ban/README.md)
+  * [创建启动板](qi-dong-ban/chuang-jian-qi-dong-ban.md)
+  * [更新启动板](qi-dong-ban/geng-xin-qi-dong-ban.md)
+  * [完成启动板](qi-dong-ban/wan-cheng-qi-dong-ban.md)
+  * [添加/删除白名单](qi-dong-ban/tian-jia-shan-chu-bai-ming-dan.md)
+  * [如何购买预售](qi-dong-ban/ru-he-gou-mai-yu-shou.md)
+  * [如何领取代币](qi-dong-ban/ru-he-ling-qu-dai-bi.md)
+  * [如何撤回您的捐款](qi-dong-ban/ru-he-che-hui-nin-de-juan-kuan.md)
+  * [紧急撤回资金](qi-dong-ban/jin-ji-che-hui-zi-jin.md)
+* [代币](dai-bi/README.md)
   * [创建带有黑名单/增发令牌](zh/create-token.md)
   * [创建手续费机制令牌](zh/create-token2.md)
-  * 创建婴儿令牌
-* NFT
-  * NFT批量发送
-  * NFT授权
-  * NFT归集
-* 令牌锁
-  * 创建LP令牌/ERC20令牌锁
-  * 查看令牌列表
-  * 查看LP令牌列表
-* 科学家模块
-  * 抢购模式
-  * 抢预售
-  * 挂单模式
-  * unicrypt抢购
-* 最新汽油费
-* 批量发送令牌
-* 批量检测钱包余额
-* 批量生成钱包
+  * [创建婴儿令牌](dai-bi/chuang-jian-ying-er-ling-pai.md)
+* [NFT](nft/README.md)
+  * [NFT批量发送](nft/nft-pi-liang-fa-song.md)
+  * [NFT授权](nft/nft-shou-quan.md)
+  * [NFT归集](nft/nft-gui-ji.md)
+* [令牌锁](ling-pai-suo/README.md)
+  * [创建LP令牌/ERC20令牌锁](ling-pai-suo/chuang-jian-lp-ling-pai-erc20-ling-pai-suo.md)
+  * [查看令牌列表](ling-pai-suo/cha-kan-ling-pai-lie-biao.md)
+  * [查看LP令牌列表](ling-pai-suo/cha-kan-lp-ling-pai-lie-biao.md)
+* [科学家模块](ke-xue-jia-mo-kuai/README.md)
+  * [抢购模式](ke-xue-jia-mo-kuai/qiang-gou-mo-shi.md)
+  * [抢预售](ke-xue-jia-mo-kuai/qiang-yu-shou.md)
+  * [挂单模式](ke-xue-jia-mo-kuai/gua-dan-mo-shi.md)
+  * [unicrypt抢购](ke-xue-jia-mo-kuai/unicrypt-qiang-gou.md)
+* [最新汽油费](zui-xin-qi-you-fei.md)
+* [批量发送令牌](pi-liang-fa-song-ling-pai.md)
+* [批量检测钱包余额](pi-liang-jian-ce-qian-bao-yu-e.md)
+* [批量生成钱包](pi-liang-sheng-cheng-qian-bao.md)
 * [令牌授权查询](zh/batch-approve.md)
-* 令牌批量归集
-* 令牌持有人扫描
-* 其它
-  * 单位转换
-  * 代币授权
-  * 靓号地址生成
-* 常见问题/常见错误
+* [令牌批量归集](ling-pai-pi-liang-gui-ji.md)
+* [令牌持有人扫描](ling-pai-chi-you-ren-sao-miao.md)
+* [其它](qi-ta/README.md)
+  * [单位转换](qi-ta/dan-wei-zhuan-huan.md)
+  * [代币授权](qi-ta/dai-bi-shou-quan.md)
+  * [靓号地址生成](qi-ta/jing-hao-di-zhi-sheng-cheng.md)
+* [常见问题/常见错误](chang-jian-wen-ti-chang-jian-cuo-wu.md)
+
+## Group 1
+
+* [Page 1](group-1/page-1.md)
