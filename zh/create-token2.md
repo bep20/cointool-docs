@@ -13,7 +13,7 @@ https://TokenTool.App 提供了简单的可视化页面化的形式创建ERC20�
 
 1. 首先我们通过可视化界面创建代币，通过 https://www.tokentool.app/createToken/v2 打开创建代币功能.填写代币信息.
 
-<img src="../.gitbook/assets/v2/Snipaste_2022-05-03_14-39-31.png" alt="create token" style="zoom:50%;" />
+<img src="../.gitbook/assets/v2/Snipaste_2022-05-03_14-39-31.png" alt="create token" />
 
 2. 参数介绍说明
 
@@ -51,12 +51,12 @@ https://TokenTool.App 提供了简单的可视化页面化的形式创建ERC20�
 
 查看以下步骤，了解如何使用 MetaMask 通过 TokenTool 进入Token管理员页面。
 
-<img src="../.gitbook/assets/v2/admin2.png" alt="create token" style="zoom:50%;" />
+<img src="../.gitbook/assets/v2/admin2.png" alt="create token" />
 
 1. 管理员钱包链接MetaMask 钱包链接
 2. 在Token管理员页面中输入代币的合约地址进入管理员页面
 
-<img src="../.gitbook/assets/v2/admin1.png" alt="create token" style="zoom:50%;" />
+<img src="../.gitbook/assets/v2/admin1.png" alt="create token" />
 
 1. 拥有权转移：可以将来owner权限转移给第三者 或者 其他地址
 2. 销毁权限：将owner地址转移给 `0x0000000000000000000000000000000000000000`地址
@@ -68,7 +68,7 @@ https://TokenTool.App 提供了简单的可视化页面化的形式创建ERC20�
    3. 团队代表转入团队地址
 6. 单次最大转账金额：限购/转账 限制（普通用户在买卖/转账时不可超过单次最大转账数量）
 
-<img src="../.gitbook/assets/v2/admin3.png" alt="create token" style="zoom:50%;" />
+<img src="../.gitbook/assets/v2/admin3.png" alt="create token" />
 
 1. 钱包最大持仓限制：一个地址的数量不可超过（钱包最大持仓限制量）
 
