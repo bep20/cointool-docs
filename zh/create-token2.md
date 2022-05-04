@@ -88,7 +88,7 @@ https://TokenTool.App 提供了简单的可视化页面化的形式创建ERC20�
 
    
 
-> 原文链接：[https://docs.tokentool.app/learn/create-token](https://github.com/TokenTool-App/tokentool-docs/blob/main/learn/create-token.md)
+> 原文链接：[https://docs.tokentool.app/dai-bi/create-token2](https://docs.tokentool.app/dai-bi/create-token2)
 > 
 > 引用地址
 > [https://www.tokentool.app/createToken/v2](https://www.tokentool.app/createToken/v2) 创建代币地址

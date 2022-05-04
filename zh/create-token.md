@@ -58,5 +58,5 @@ https://TokenTool.App 提供了简单的可视化页面化的形式创建标准�
 当前设置的币价是 1个ETH=100.989个 UNI， 那么一个UNI = 0.001989 左右的ETH，这一步骤非常重要，决定UNI的初始化价格。
 
 
-> 原文链接：[https://docs.tokentool.app/learn/create-token](https://github.com/TokenTool-App/tokentool-docs/blob/main/learn/create-token.md)
+> 原文链接：[https://docs.tokentool.app/dai-bi/create-token](https://docs.tokentool.app/dai-bi/create-token)
 
