@@ -6,7 +6,7 @@
 3. 输入您的令牌地址(如果您已经有了)，如果没有可以通过[一键发币](https://tokentool.app/createToken/V2)创建您的令牌
 4. 输入令牌后会显示代币信息，点击【授权】完成后，即可进入下一步骤
 
-<img src="../.gitbook/assets/launchpad/Snipaste_2022-05-05_22-05-50.png" alt="logo" />
+![create-luanchpad](../.gitbook/assets/launchpad/Snipaste_2022-05-05_22-05-50.png)
 
 5. MetaMask 现在将会像你请求一次授权合约的操作，如果你同意点就“确认”按钮已完成该过程。
 
@@ -31,7 +31,9 @@
 
 下面这是一个例子：
 
-<img src="../.gitbook/assets/launchpad/Snipaste_2022-05-05_22-18-03.png" alt="create-launchpad" />
+![create-launchpad](../.gitbook/assets/launchpad/Snipaste_2022-05-05_22-18-03.png)
+
+
 
 分析例子数据，（当前预售数据）
 
