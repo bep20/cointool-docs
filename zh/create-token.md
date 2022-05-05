@@ -9,7 +9,7 @@ https://TokenTool.App 提供了简单的可视化页面化的形式创建标准�
 
 ## 代币基本信息
 
-首先我们通过可视化界面创建代币，通过 https://www.tokentool.app/createToken/eth 打开创建代币功能.填写代币信息.
+首先我们通过可视化界面创建代币，通过 [https://www.tokentool.app/createToken/eth](https://www.tokentool.app/createToken/eth) 打开创建代币功能.填写代币信息.
 
 ![create token](../.gitbook/assets/Snipaste_2021-10-24_12-49-37.png)
 
@@ -43,7 +43,7 @@ https://TokenTool.App 提供了简单的可视化页面化的形式创建标准�
 
 上面我们将如何通过可视化页面进行一键式的创建token。接下来，如果将创建好的token，进行添加到uniswap中，让更多的用户可以在swap上进行交易买/卖。
 
-第一步打开https://app.uniswap.org/#/pool/v2 打开流动池。
+第一步打开[https://app.uniswap.org/#/pool/v2](https://app.uniswap.org/#/pool/v2) 打开流动池。
 
 <img src="../.gitbook/assets/Snipaste_2021-10-24_13-13-43.png" alt="create token" />
 

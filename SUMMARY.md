@@ -48,3 +48,4 @@
   * IPFS
 
 ## 常见问题/常见错误
+  * [如何通过TP钱包发币](zh/tpwallet-createToken.md)

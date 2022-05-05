@@ -11,7 +11,7 @@ https://TokenTool.App 提供了简单的可视化页面化的形式创建ERC20�
 
 查看以下步骤，了解如何使用 MetaMask 通过 TokenTool 创建带有买卖费率令牌币。
 
-1. 首先我们通过可视化界面创建代币，通过 https://www.tokentool.app/createToken/v2 打开创建代币功能.填写代币信息.
+1. 首先我们通过可视化界面创建代币，通过 [https://www.tokentool.app/createToken/v2](https://www.tokentool.app/createToken/v2) 打开创建代币功能.填写代币信息.
 
 <img src="../.gitbook/assets/v2/Snipaste_2022-05-03_14-39-31.png" alt="create token" />
 
