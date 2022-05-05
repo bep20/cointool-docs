@@ -3,7 +3,7 @@
 * [联系我们](zh/contact-us.md)
 * [社交链接](zh/social-links.md)
 * [服务费用](zh/service-fees.md)
-## 启动板
+* [启动板](launchpads)
   * [创建启动板](zh/create-launchpad.md)
   * [更新启动板](zh/update-launchpad.md)
   * [完成启动板](zh/finish-launchpad.md)
@@ -49,3 +49,4 @@
 
 ## 常见问题/常见错误
   * [如何通过TP钱包发币](zh/tpwallet-createToken.md)
+
