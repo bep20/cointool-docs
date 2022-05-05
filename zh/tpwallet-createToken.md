@@ -28,9 +28,13 @@
 <img src="../.gitbook/assets/common-problem/Snipaste_2022-05-05_18-08-25.png" alt="tp-app" style="zoom:50%;" />
 
 4. 点击**【发现】**菜单页
+
 5. 点击搜索栏，输入发币链接地址
+
 6. 也可以进行扫描二维码进入dapp 页面(如下图)
+
+
 <img src="../.gitbook/assets/common-problem/Snipaste_2022-05-05_18-13-26.png" alt="tp-app" style="zoom:50%;" />
 
-<img src="../.gitbook/assets/common-problem/Snipaste_2022-05-05_18-14-41.png" alt="tp-app" style="zoom:50%;" />
+<img src="../.gitbook/assets/common-problem/Snipaste_2022-05-05_18-14-41.png" alt="tp-app" />
 
