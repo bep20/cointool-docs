@@ -3,7 +3,9 @@
 * [联系我们](zh/contact-us.md)
 * [社交链接](zh/social-links.md)
 * [服务费用](zh/service-fees.md)
-* [启动板](launchpads)
+* 
+## 启动板 <a href="#launchpads" id="launchpads"></a>
+
   * [创建启动板](launchpads/create-a-launchpad.md)
   * [更新启动板](launchpads/update-a-launchpad.md)
   * [完成启动板](launchpads/finalize-a-launchpad.md)
