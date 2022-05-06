@@ -25,11 +25,15 @@ https://TokenTool.App 提供了简单的可视化页面化的形式创建标准�
 
 创建者是否需要转移给别的钱包地址，token代币是否有通缩机制，如果有通缩机制没燃烧比例，以及手续费等信息进行相关的配置，进行创建操作。通过右上角提示，打开区块链浏览器
 
-<img src="../.gitbook/assets/Snipaste_2021-10-24_13-00-53.png" alt="create token" />
+
+
+![create token](../.gitbook/assets/Snipaste_2021-10-24_13-00-53.png)
 
 成功创建了代币，生成了代币的地址：`0xb1d1502fa0e5791c655b8e62e189335a25ebc8d4` ，代币拥有者可通过 `token管理员` 功能进行代币管理
 
-<img src="../.gitbook/assets/Snipaste_2021-10-24_13-04-20.png" alt="create token" />
+![create token](../.gitbook/assets/Snipaste_2021-10-24_13-04-20.png)
+
+
 
 开启暂停交易：如果开启则当前代币无法进行转账操作
 
@@ -45,15 +49,15 @@ https://TokenTool.App 提供了简单的可视化页面化的形式创建标准�
 
 第一步打开[https://app.uniswap.org/#/pool/v2](https://app.uniswap.org/#/pool/v2) 打开流动池。
 
-<img src="../.gitbook/assets/Snipaste_2021-10-24_13-13-43.png" alt="create token" />
+![create token](../.gitbook/assets/Snipaste_2021-10-24_13-13-43.png)
 
 选择创建币对
 
-<img src="../.gitbook/assets/Snipaste_2021-10-24_13-14-37.png" alt="create token" />
+![create token](../.gitbook/assets/Snipaste_2021-10-24_13-14-37.png)
 
 选择代币，在对话框中输入合约地址，将会出现刚刚创建好的token。选择好后将是对token的价格进行设置。如果是第一次配对者是初始化token的价格。
 
-<img src="../.gitbook/assets/Snipaste_2021-10-24_13-19-48.png" alt="create token" />
+![create token](../.gitbook/assets/Snipaste_2021-10-24_13-19-48.png)
 
 当前设置的币价是 1个ETH=100.989个 UNI， 那么一个UNI = 0.001989 左右的ETH，这一步骤非常重要，决定UNI的初始化价格。
 
