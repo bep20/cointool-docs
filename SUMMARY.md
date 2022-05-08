@@ -27,18 +27,19 @@
   * [NFT授权](zh/nft-approval.md)
   * [NFT归集](zh/nft-collection.md)
 
-## 令牌锁
+## 令牌锁 <a href="#lock" id="lock"></a>
 
-  * [创建LP令牌/ERC20令牌锁](zh/lock-create.md)
-  * [查看令牌列表](zh/lock-token.md)
-  * [查看LP令牌列表](zh/lock-liquidity.md)
+  * [创建LP令牌/ERC20令牌锁](lock/lock-create.md)
+  * [查看令牌列表](lock/lock-token.md)
+  * [查看LP令牌列表](lock/lock-liquidity.md)
 
-## 科学家模块
+## 科学家模块 <a href="#scientist" id="scientist"></a>
 
-  * [抢购模式](zh/panicBuying.md)
-  * [抢预售](zh/grabPreSale.md)
-  * [挂单模式](zh/commissionOrder.md)
-  * [unicrypt抢购](zh/unicrypt.md)
+  * [抢购模式](scientist/panicBuying.md)
+  * [抢预售](scientist/grabPreSale.md)
+  * [挂单模式](scientist/commissionOrder.md)
+  * [unicrypt抢购](scientist/unicrypt.md)
+
 
 * [最新汽油费](zh/gasPrice.md)
 * [批量发送令牌](zh/multiSender.md)
@@ -48,14 +49,14 @@
 * [令牌批量归集](zh/batchCollection.md)
 * [令牌持有人扫描](zh/tokenHoldScan.md)
 
-## 其它
+## 其它 <a href="#other" id="other"></a>
 
   * 单位转换
   * 代币授权
   * 靓号地址生成
   * IPFS
 
-## 常见问题/常见错误
+## 常见问题/常见错误 <a href="#common-problem"></a>
 
-  * [如何通过TP钱包发币](zh/tpwallet-createToken.md)
+  * [如何通过TP钱包发币](common-problem/tpwallet-createToken.md)
 

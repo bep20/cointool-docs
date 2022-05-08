@@ -3,7 +3,7 @@
 如何使用TokenTool 铸造标准代币
 [https://www.youtube.com/watch?v=K0PExlXV0LI](https://www.youtube.com/watch?v=K0PExlXV0LI)
 
-## 轻松创建ERC20代币
+## 轻松创建ERC20代币 
 
 https://TokenTool.App 提供了简单的可视化页面化的形式创建标准的ERC20的代币，解决了各种繁琐的安装各种环境的苦恼。如果要自己通过编写solidity合约代码，在通过truffle编辑发布，还需要安装Node.Js，对于没有编程技术的人员来是一个大问题，TokenTool.App 解决了这个问题，通过编译好的字节码，通过Web3 发布自己代币。接下来进入如何发布一个ERC20标准代币。以及在uniswap中添加流动性.本次教程文档使用测试链进行操作.
 
