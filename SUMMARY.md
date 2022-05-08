@@ -56,7 +56,7 @@
   * 靓号地址生成
   * IPFS
 
-## 常见问题/常见错误 <a href="#common-problem"></a>
+## 常见问题/常见错误 <a href="#common-problem" id="common-problem"></a>
 
   * [如何通过TP钱包发币](common-problem/tpwallet-createToken.md)
 
