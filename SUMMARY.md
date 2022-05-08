@@ -29,9 +29,10 @@
 
 ## 令牌锁 <a href="#lock" id="lock"></a>
 
-  * [创建LP令牌/ERC20令牌锁](lock/lock-create.md)
+  * [创建你的令牌锁](lock/lock-create-token.md)
+  * [创建你的流动性锁](lock/lock-create-liquidity.md)
   * [查看令牌列表](lock/lock-token.md)
-  * [查看LP令牌列表](lock/lock-liquidity.md)
+  * [查看LP池子列表](lock/lock-liquidity.md)
 
 ## 科学家模块 <a href="#scientist" id="scientist"></a>
 
