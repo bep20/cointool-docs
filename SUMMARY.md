@@ -1,5 +1,5 @@
 # Table of contents
-* [介绍](README.md)
+* [TokenTool 帮助文档](README.md)
 * [联系我们](zh/contact-us.md)
 * [社交链接](zh/social-links.md)
 * [服务费用](zh/service-fees.md)
