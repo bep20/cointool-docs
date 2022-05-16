@@ -1,6 +1,6 @@
 # 创建一个持币分红币
 
-如果在TokenTool 铸造一个带有持币分红机制的代币 ： [https://youtu.be/CePxDWuOyd8](https://youtu.be/CePxDWuOyd8)
+如何在TokenTool 铸造一个带有持币分红机制的代币 ： [https://youtu.be/CePxDWuOyd8](https://youtu.be/CePxDWuOyd8)
 
 查看一下步骤，了解如果使用PC电脑端的Matamask钱包通过TokenTool创建持币分红代币。
 
@@ -39,7 +39,7 @@
 
 
 
-例如，您使用以下参数创建 BabyDoge1000x 令牌：
+例如，您使用以下参数创建 BitCoin 令牌：
 
 代币名称：BitCoin 代币：BTC 总供应量：100000000 BTC 每笔交易产生 6% 的费用，其中：2% 分配给 DOGE 中的所有持有者， 2% 锁定在流动性池中以创造稳定上涨的价格，2% 分配到营销地址：0xJustAnExampleAddress000000000000000000000。
 
