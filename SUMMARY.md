@@ -60,4 +60,5 @@
 ## 常见问题/常见错误 <a href="#common-problem" id="common-problem"></a>
 
   * [如何通过TP钱包发币](common-problem/tpwallet-createToken.md)
+  * [如何查询池子(LP)地址](common-problem/how-to-find-liquidity.md)
 
