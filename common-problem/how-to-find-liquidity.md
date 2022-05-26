@@ -17,11 +17,11 @@
 
 ![add-liquidity](../.gitbook/assets/common-problem/Snipaste_2022-05-16_16-10-28.png)
 
-7. 又上角用色部分地址就是LP的令牌合约地址
+7. 右上角红色部分地址就是LP的令牌合约地址
 
 ## 通过合约地址查询
 
-1. 通过区块链浏览器输入合约地址查询
+1. 通过区块链浏览器输入合约地址查询，`Contract` 和 `Read Contract` 位置
 
 ![add-liquidity](../.gitbook/assets/common-problem/Snipaste_2022-05-26_11-18-00.png)
 
