@@ -16,6 +16,12 @@
 * [如何撤回您的捐款](launchpads/withdraw-launchpad.md)
 * [紧急撤回资金](launchpads/regret-launchpad.md)
 
+## 创建挖矿 <a href="#mining" id="mining"></a>
+
+* [创建挖矿池](mining/create-a-mining.md)
+* [查看挖矿](mining/mining-list.md)
+* [质押挖矿](mining/mining-detail.md)
+
 ## 代币 <a href="#token" id="token"></a>
 
 * [创建带有黑名单/增发令牌](token/create-token.md)
