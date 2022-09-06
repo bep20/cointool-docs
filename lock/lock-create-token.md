@@ -42,5 +42,3 @@
 
 请排除TokenToolLock的锁仓合约地址，您可以在黄色提示中看到 TokenToolLock的锁仓合约地址。
 
-
-

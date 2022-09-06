@@ -1,1 +1,1 @@
-如果您有任何问题、商业想法、请通过我们的[电报群/Telegram](https://t.me/tokentool_app)与我们管理员联系
+如果您有任何问题、商业想法、请通过我们的[电报群/Telegram](https://t.me/tokentool_app)与我们联系，或者给我们发送电子邮件信息: [tokentool.app@gmail.com](mailto:tokentool.app@gmail.com)
