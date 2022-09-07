@@ -1,7 +1,7 @@
 # 轻松创建ERC20代币
 
 如何使用TokenTool 铸造标准代币
-[https://www.youtube.com/watch?v=K0PExlXV0LI](https://www.youtube.com/watch?v=K0PExlXV0LI)
+[https://youtu.be/K0PExlXV0LI](https://youtu.be/K0PExlXV0LI)
 
 ## 轻松创建ERC20代币 
 
