@@ -1,4 +1,7 @@
 # 创建挖矿
+如何使用TokenTool 创建挖矿活动
+[https://youtu.be/QfqfRCVvPc8](https://youtu.be/QfqfRCVvPc8)
+
 ## 第1步：挖矿规则
 
 1. 链接你的钱包。
