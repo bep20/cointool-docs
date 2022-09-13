@@ -21,6 +21,8 @@ TokenTool 区块链工具箱
 > [https://tokentool.app/launchpad/list](https://tokentool.app/launchpad/list) 启动板列表
 > NFT
 >
+> [https://tokentool.app/nft/minting](https://tokentool.app/nft/minting) Live Mint(free-mint)
+> 
 > [https://tokentool.app/nft/multiSender](https://tokentool.app/nft/multiSender) NFT批量发送
 >
 > [https://tokentool.app/nft/NftApproval](https://tokentool.app/nft/NftApproval) NFT授权
@@ -29,11 +31,11 @@ TokenTool 区块链工具箱
 >
 > 创建代币
 >
-> [https://tokentool.app/createToken/eth](https://tokentool.app/createToken/eth) 一键发币
+> [https://tokentool.app/createToken/eth](https://tokentool.app/createToken/eth) 一键发币V1
 >
-> [https://tokentool.app/createToken/V2](https://tokentool.app/createToken/V2) 一键发币含手续费
+> [https://tokentool.app/createToken/V2](https://tokentool.app/createToken/V2) 一键发币含手续费V2
 >
-> [https://tokentool.app/createToken/V3](https://tokentool.app/createToken/V3)  一键发分红币
+> [https://tokentool.app/createToken/V3](https://tokentool.app/createToken/V3)  一键发分红币V3
 >
 > Token锁
 >
