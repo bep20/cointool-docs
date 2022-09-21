@@ -2,7 +2,7 @@
 
 如何在TokenTool 铸造一个带有持币分红机制的代币 ： [https://youtu.be/CePxDWuOyd8](https://youtu.be/CePxDWuOyd8)
 
-查看一下步骤，了解如果使用PC电脑端的Matamask钱包通过TokenTool创建持币分红代币。
+查看以下步骤，了解如果使用PC电脑端的Matamask钱包通过TokenTool创建持币分红代币。
 
 1. Matemask钱包链接到区块链网络。
 2. 打开创建代币链接地址 [https://tokentool.app/createToken/v3](https://tokentool.app/createToken/v3)
