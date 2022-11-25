@@ -1,8 +1,8 @@
 # 科学家抢DxSale预售教程
 
-https://www.tokentool.app是一款免费的区块链上的工具集合，今天教大家如何快速的抢购DxSale上面的预售代币。DxSale在此不在做多的介绍，如果他是干嘛的还不是很清楚的话，大家可以先去网上学习学习。
+https://www.CoinTool.website是一款免费的区块链上的工具集合，今天教大家如何快速的抢购DxSale上面的预售代币。DxSale在此不在做多的介绍，如果他是干嘛的还不是很清楚的话，大家可以先去网上学习学习。
 
-https://www.tokentool.app/robotTrade/grabPreSale 一款免费的帮助小白抢DxSale的预售，如何才能快速的第一时间抢购DxSale预售币呢，那么就是在倒计时结束之后第一时间发起交易，通过你的bnb 发送到预售地址。
+https://www.CoinTool.website/robotTrade/grabPreSale 一款免费的帮助小白抢DxSale的预售，如何才能快速的第一时间抢购DxSale预售币呢，那么就是在倒计时结束之后第一时间发起交易，通过你的bnb 发送到预售地址。
 
 ![create token](../.gitbook/assets/Snipaste_2021-10-24_21-40-00.png)
 
