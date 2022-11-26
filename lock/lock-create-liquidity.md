@@ -2,6 +2,10 @@
 
 
 
+教学视频：添加流动性，锁池子、解锁等操作 [https://youtu.be/Dqb9qL22YwU](https://youtu.be/Dqb9qL22YwU)
+
+
+
 导航到 [https://tokentool.app/lock/create](https://tokentool.app/lock/create) 并按照以下步骤简单程序进行操作：
 
 1. 链接你的钱包。
