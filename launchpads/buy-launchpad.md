@@ -2,7 +2,7 @@
 
 如何参与 PinkSale 的预售
 
-1. 转入到一下链接 [https://tokentool.app/launchpad/list](https://tokentool.app/launchpad/list) 所有的launchpad 列表页面
+1. 转入到一下链接 [https://cointool.website/launchpad/list](https://cointool.website/launchpad/list) 所有的launchpad 列表页面
 1. 有4种预售状态：准备中，进行中，上市中，关闭。您只需购买处于【进行中】状态的预售。例如，“TT”预售目前正在【进行中】。将鼠标悬停在它上面，然后单击“ViewPool”。
 1. 点击“查看池”后，您可以看到与该预售相关的所有信息。您应该在购买前仔细检查所有内容。
 
