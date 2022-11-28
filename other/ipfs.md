@@ -5,7 +5,7 @@ IPFS 为分布式 Web 提供动力，一种点对点超媒体协议，旨在通�
 ## 如果将本地图片上传到IPFS网络中
 
 
-### 前往[https://tokentool.app/other/ipfs](https://tokentool.app/other/ipfs) IPFS图片上传页面
+### 前往[https://cointool.website/other/ipfs](https://cointool.website/other/ipfs) IPFS图片上传页面
 
 ![create-mining](../.gitbook/assets/other/ipfs/ipfs_01.png)
 
