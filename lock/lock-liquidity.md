@@ -4,10 +4,10 @@
 
 
 
-导航到 [https://tokentool.app/lock/liquidity](https://tokentool.app/lock/liquidity) 并按照以下步骤简单程序进行操作：
+导航到 [https://cointool.website/lock/liquidity](https://cointool.website/lock/liquidity) 并按照以下步骤简单程序进行操作：
 
 1. 链接你的钱包。
-2. 前往[https://tokentool.app/lock/liquidity](https://tokentool.app/lock/liquidity)
+2. 前往[https://cointool.website/lock/liquidity](https://cointool.website/lock/liquidity)
 3. 查看当前地址锁池子列表数据，可以看到（锁定时间于解锁时间，明细信息，延迟解锁操作等）
 
 ![lock-token](../.gitbook/assets/lock/Snipaste_2022-11-26_12-16-37.png)
