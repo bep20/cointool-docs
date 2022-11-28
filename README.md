@@ -4,7 +4,7 @@ description: >-
   一个让更多人轻松的操作链上工具集合箱，批量查询区块链余额，批量创建BTC、ETH、SOL、TRX、BNB等多种钱包地址，一键发币、批量归集、批量发送、行情总览、等多种操作
 ---
 
-# CoinTool.Info 文档
+# Cointool.website 文档
 
 ## 创建代币
 
