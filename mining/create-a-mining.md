@@ -1,11 +1,11 @@
 # 创建挖矿
-如何使用TokenTool 创建挖矿活动
+如何使用CoinTool 创建挖矿活动
 [https://youtu.be/QfqfRCVvPc8](https://youtu.be/QfqfRCVvPc8)
 
 ## 第1步：挖矿规则
 
 1. 链接你的钱包。
-2. 前往[https://tokentool.app/mining/list](https://tokentool.app/mining/list) 创建挖矿页面。
+2. 前往[https://cointool.website/mining/list](https://cointool.website/mining/list) 创建挖矿页面。
 3. 点击创建挖矿
 
 ![create-mining](../.gitbook/assets/mining/Snipaste_2022-06-20_16-37-44.png)
