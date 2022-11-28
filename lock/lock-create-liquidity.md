@@ -6,12 +6,12 @@
 
 
 
-导航到 [https://tokentool.app/lock/create](https://tokentool.app/lock/create) 并按照以下步骤简单程序进行操作：
+导航到 [https://cointool.website/lock/create](https://cointool.website/lock/create) 并按照以下步骤简单程序进行操作：
 
 1. 链接你的钱包。
-2. 前往[https://tokentool.app/lock/create](https://tokentool.app/lock/create)
+2. 前往[https://cointool.website/lock/create](https://cointool.website/lock/create)
 3. 输入您的流动性令牌合约地址后，将会显示您的代币池子信息和余额（如图 TTT-WBNB交易对，交易所，余额等信息）。
-    **tips：如果不知道自己代币的LP地址，可以通过[如果查询LP地址](https://docs.tokentool.app/common-problem/how-to-find-liquidity)查找LP地址。**
+    **tips：如果不知道自己代币的LP地址，可以通过[如果查询LP地址](https://docs.cointool.website/common-problem/how-to-find-liquidity)查找LP地址。**
 
 ![lock-token](../.gitbook/assets/lock/Snipaste_2022-05-08_23-15-41.png)
 
@@ -40,5 +40,5 @@
 
 如果您的代币合约有LP分红，或者持LP奖励等机制，一定要有拆除的操作。
 
-请排除TokenToolLock的锁仓合约地址，您可以在黄色提示中看到 TokenToolLock的锁仓合约地址。
+请排除CoinToolLock的锁仓合约地址，您可以在黄色提示中看到 CoinToolLock的锁仓合约地址。
 
