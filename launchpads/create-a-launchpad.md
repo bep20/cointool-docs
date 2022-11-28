@@ -2,8 +2,8 @@
 
 ## 第1步：验证令牌
 1. 链接你的钱包。
-2. 前往[https://tokentool.app/launchpad/create](https://tokentool.app/launchpad/create)
-3. 输入您的令牌地址(如果您已经有了)，如果没有可以通过[一键发币](https://tokentool.app/createToken/V2)创建您的令牌
+2. 前往[https://cointool.website/launchpad/create](https://cointool.website/launchpad/create)
+3. 输入您的令牌地址(如果您已经有了)，如果没有可以通过[一键发币](https://cointool.website/createToken/V2)创建您的令牌
 4. 输入令牌后会显示代币信息，点击【授权】完成后，即可进入下一步骤
 
 ![create-luanchpad](../.gitbook/assets/launchpad/Snipaste_2022-05-05_22-05-50.png)
@@ -63,7 +63,7 @@
 
    例如：https://ipfs.io/ipfs/Qma34oPEZzS5nEcKxzrdvpW6Th2gR2qxKayE18CFwNSJN6 
 
-   如果您没有在线图片url 可使用 [TokenTool IPFS](https://tokentool.app/other/ipfs)文件系统上传图片到IPFS中
+   如果您没有在线图片url 可使用 [CoinTool IPFS](https://tokentool.app/other/ipfs)文件系统上传图片到IPFS中
 
 3. 输入完成后点击下一步。
 
