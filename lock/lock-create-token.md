@@ -4,7 +4,7 @@
 
 代币锁定允许 DeFi 项目设置自定义的代币锁定参数。
 
-通过使用 TokenToolLocks 锁定团队成员的代币和国库，项目可以在他们的社区中灌输信任，并表明他们是长期参与的。在锁定到期之前无法释放时间锁定的代币，因此投资者可以确信团队不会在市场上倾销他们的所有代币（又名“退出骗局”）。
+通过使用 CoinToolLocks 锁定团队成员的代币和国库，项目可以在他们的社区中灌输信任，并表明他们是长期参与的。在锁定到期之前无法释放时间锁定的代币，因此投资者可以确信团队不会在市场上倾销他们的所有代币（又名“退出骗局”）。
 
 
 
@@ -20,10 +20,10 @@
 
 ## 如何创建我的令牌锁?
 
-导航到 [https://tokentool.app/lock/create](https://tokentool.app/lock/create) 并按照以下步骤简单程序进行操作：
+导航到 [https://cointool.website/lock/create](https://cointool.website/lock/create) 并按照以下步骤简单程序进行操作：
 
 1. 链接你的钱包。
-2. 前往[https://tokentool.app/lock/create](https://tokentool.app/lock/create)
+2. 前往[https://cointool.website/lock/create](https://cointool.website/lock/create)
 3. 输入您的令牌合约地址后，将会显示您的代币信息与代币余额。
 4. 输入您要锁定的令牌代币余额数量，并选择锁定直到某个时间点解锁代币时间
 
@@ -40,5 +40,5 @@
 
 如果您的代币合约有持币分红，或者持币奖励，转账限额等机制，一定要有拆除排除限制的操作。
 
-请排除TokenToolLock的锁仓合约地址，您可以在黄色提示中看到 TokenToolLock的锁仓合约地址。
+请排除CoinToolLock的锁仓合约地址，您可以在黄色提示中看到 CoinToolLock的锁仓合约地址。
 
