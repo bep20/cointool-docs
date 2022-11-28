@@ -2,7 +2,7 @@
 
 您可以通过以下步骤查看和更改有关 Launchpad 的一些基本信息：
 
-1. 前往[https://tokentool.app/launchpad/list](https://tokentool.app/launchpad/list)
+1. 前往[https://cointool.website/launchpad/list](https://cointool.website/launchpad/list)
 2. 点击“我的启动板”，你就可以在这里看到你自己发布的所有预售项目
 3. 点击ViewPool 查看预售详情信息
 
