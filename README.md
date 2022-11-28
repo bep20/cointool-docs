@@ -1,4 +1,4 @@
-# TokenTool 帮助文档
+# CoinTool 帮助文档
 
 TokenTool 区块链工具箱
 
@@ -10,7 +10,7 @@ TokenTool 区块链工具箱
 
 
 
-> 原文链接：[https://docs.cointool.app/](https://docs.cointool.app)
+> 原文链接：[https://docs.cointool.website/](https://docs.cointool.website)
 >
 > 引用地址：
 >
