@@ -1,6 +1,6 @@
 # CoinTool 帮助文档
 
-TokenTool 区块链工具箱
+Cointool 区块链工具箱
 
 <img src=".gitbook/assets/logo.jpg" alt="logo" />
 
