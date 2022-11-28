@@ -1,2 +1,2 @@
-# TokenTool.App 教程文档
+# CoinTool.website 教程文档
 
