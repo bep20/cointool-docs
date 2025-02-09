@@ -4,7 +4,7 @@ https://CoinTool.website 提供了简单的可视化页面化的形式创建标�
 
 ## 代币基本信息
 
-首先我们通过可视化界面创建代币，通过 https://www.CoinTool.website/createToken/eth 打开创建代币功能.填写代币信息.
+首先我们通过可视化界面创建代币，通过 https://www.coinfu.website/createToken/eth 打开创建代币功能.填写代币信息.
 
 ![create token](../.gitbook/assets/Snipaste_2021-10-24_12-49-37.png)
 
@@ -45,4 +45,4 @@ https://CoinTool.website 提供了简单的可视化页面化的形式创建标�
 当前设置的币价是 1个ETH=100.989个 UNI， 那么一个UNI = 0.001989 左右的ETH，这一步骤非常重要，决定UNI的初始化价格。
 
 
-> 原文链接：[https://docs.CoinTool.website/learn/create-token](https://github.com/TokenTool-App/tokentool-docs/blob/main/learn/create-token.md)
+> 原文链接：[https://docs.cointool.website/learn/create-token](https://github.com/CoinTool-website/cointool-docs/blob/main/learn/create-token.md)

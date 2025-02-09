@@ -1,2 +1,2 @@
-# CoinTool.website 教程文档
+# Cointool.website 教程文档
 
