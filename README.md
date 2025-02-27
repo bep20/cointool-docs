@@ -12,7 +12,7 @@ description: >-
 
 ![&#x4EA4;&#x4E92;&#x56FE;&#x7247;](.gitbook/assets/Snipaste_2021-09-29_14-49-28.png)
 
-用户通过[https://bsc-create.com](https://bsc-create.com) 创建标准ERC20代币，可以很好的帮助那些不懂的编程技术人员。只需要通过CoinTool 平台，CoinTool背后已实现区块链进行操作，无需编程技术，可轻松的管理和创建代币。
+用户通过[https://bsc-create.com](https://bsc-create.com/) 创建标准ERC20代币，可以很好的帮助那些不懂的编程技术人员。只需要通过CoinTool 平台，CoinTool背后已实现区块链进行操作，无需编程技术，可轻松的管理和创建代币。
 
 ## 批量生成钱包
 
