@@ -1,6 +1,6 @@
 # 轻松创建ERC20代币
 
-https://bsc-create.com 提供了简单的可视化页面化的形式创建标准的ERC20的代币，解决了各种繁琐的安装各种环境的苦恼。如果要自己通过编写solidity合约代码，在通过truffle编辑发布，还需要安装Node.Js，对于没有编程技术的人员来是一个大问题，bsc-create.com 解决了这个问题，通过编译好的字节码，通过Web3 发布自己代币。接下来进入如何发布一个ERC20标准代币。以及在uniswap中添加流动性.本次教程文档使用测试链进行操作.
+https://CoinTool.website 提供了简单的可视化页面化的形式创建标准的ERC20的代币，解决了各种繁琐的安装各种环境的苦恼。如果要自己通过编写solidity合约代码，在通过truffle编辑发布，还需要安装Node.Js，对于没有编程技术的人员来是一个大问题，CoinTool.website 解决了这个问题，通过编译好的字节码，通过Web3 发布自己代币。接下来进入如何发布一个ERC20标准代币。以及在uniswap中添加流动性.本次教程文档使用测试链进行操作.
 
 ## 代币基本信息
 
@@ -45,4 +45,4 @@ https://bsc-create.com 提供了简单的可视化页面化的形式创建标准
 当前设置的币价是 1个ETH=100.989个 UNI， 那么一个UNI = 0.001989 左右的ETH，这一步骤非常重要，决定UNI的初始化价格。
 
 
-> 原文链接：[https://docs.bsc-create.com/learn/create-token](https://github.com/bsc-create.com/cointool-docs/blob/main/learn/create-token.md)
+> 原文链接：[https://docs.cointool.website/learn/create-token](https://github.com/CoinTool-website/cointool-docs/blob/main/learn/create-token.md)

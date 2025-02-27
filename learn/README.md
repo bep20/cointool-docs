@@ -1,2 +1,2 @@
-# Cointool.website 教程文档
+# bsc-create.com 教程文档
 
